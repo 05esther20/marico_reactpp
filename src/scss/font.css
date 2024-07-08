@@ -1,0 +1,12 @@
+
+
+@font-face {
+    font-family: 'CHOGOONCHICKENSCRATCHV3';
+    src: url('https://fastly.jsdelivr.net/gh/projectnoonnu/2406-2@1.0/CHOGOONCHICKENSCRATCHV3.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+}
+
+.font{
+    font-family: 'CHOGOONCHICKENSCRATCHV3' !important;
+}
